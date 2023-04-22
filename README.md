@@ -2,6 +2,10 @@
 
 This is a full-stack, realtime chat application built with Node.js, React.js, and ChatEngine.io. The app features user authentication, socket connections, real-time messaging, image and file attachments, group chats, direct messages, read receipts, and more.
 
+## Demo
+
+![chrome-capture-2023-3-22 (2) (1)](https://user-images.githubusercontent.com/92926579/233792082-e54dde2a-7b34-4ad3-ba05-81c043446315.gif)
+
 ## Getting Started
 
 To get started with this project, follow the steps below:
