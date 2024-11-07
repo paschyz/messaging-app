@@ -10,7 +10,7 @@ This is a full-stack, realtime chat application built with Node.js, React.js, an
 
 To get started with this project, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/{YOUR_USERNAME}/nodejs-reactjs-chat.git`
+1. Clone the repository: `git clone https://github.com/paschyz/messaging-app.git`
 2. Install the dependencies for the backend: `cd backend && npm install`
 3. Install the dependencies for the frontend: `cd frontend && npm install`
 4. Start the backend server: `cd backend && npm start`
