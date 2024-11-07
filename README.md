@@ -15,7 +15,7 @@ To get started with this project, follow the steps below:
 3. Install the dependencies for the frontend: `cd frontend && npm install`
 4. Start the backend server: `cd backend && npm start`
 5. Start the frontend server: `cd frontend && npm run dev`
-6. Open the app in your browser at `http://localhost:3000` or type 'o' in your terminal to open directly in browser
+6. Open the app in your browser at `http://localhost:5173` or type 'o' in your terminal to open directly in browser
 
 ## Technologies Used
 
